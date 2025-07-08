@@ -56,7 +56,7 @@ root/
 1. **Clone the repository**
 
 \`\`\`bash
-git clone https://github.com/your-username/job-application-tracker.git
+git clone https://github.com/manjunath265/Job-Application-Tracker.git
 cd job-application-tracker
 \`\`\`
 
