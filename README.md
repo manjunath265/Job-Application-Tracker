@@ -36,6 +36,7 @@ A fullstack web application to help users track their job applications across di
 ## 🖥️ Project Structure
 
 \`\`\`
+
 root/
 │
 ├── server.js # Express server entry
@@ -46,6 +47,7 @@ root/
 ├── /models # Mongoose models
 ├── /middleware # Auth & error middleware
 ├── /uploads # Uploaded resumes (PDFs)
+
 \`\`\`
 
 ---
