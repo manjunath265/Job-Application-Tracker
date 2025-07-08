@@ -35,20 +35,19 @@ A fullstack web application to help users track their job applications across di
 
 ## 🖥️ Project Structure
 
-\`\`\`
-
+```
 root/
 │
-├── server.js # Express server entry
-├── .env # Environment variables
-├── /build # React frontend (generated)
-├── /controllers # Backend route handlers
-├── /routes # Express API routes
-├── /models # Mongoose models
-├── /middleware # Auth & error middleware
-├── /uploads # Uploaded resumes (PDFs)
+├── server.js            # Express server entry
+├── .env                 # Environment variables
+├── /build               # React frontend (generated)
+├── /controllers         # Backend route handlers
+├── /routes              # Express API routes
+├── /models              # Mongoose models
+├── /middleware          # Auth & error middleware
+├── /uploads             # Uploaded resumes (PDFs)
+```
 
-\`\`\`
 
 ---
 
